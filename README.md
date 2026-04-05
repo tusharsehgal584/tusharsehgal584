@@ -13,7 +13,7 @@
 - 🎓 Final Year B.Tech CSE (AI Minor)
 - 💡 Strong in **DSA, OOP, Machine Learning**
 - 🧠 Built ML systems for **Disease Prediction & Credit Risk**
-- ⚡ Focused on **getting industry-ready (not just theory)**
+- ⚡ Focused on **getting industry-ready**
 - 📩 Reach me: **tusharsehgal0266@gmail.com**
 
 ---
@@ -38,37 +38,78 @@
 ### 🚀 Projects
 
 🔹 **SwasthyaSights**  
-> ML-powered disease prediction system (~92% accuracy) + hospital recommendation using Google Maps API  
+> ML-powered disease prediction system (~92% accuracy) + hospital recommendation  
 
 🔹 **NiveshScore**  
-> Credit risk prediction system (~90% accuracy) using financial datasets  
+> Credit risk prediction system (~90% accuracy)  
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack 
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,flask" />
+<a href="https://www.cprogramming.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
+</a>
 
-<img src="https://skillicons.dev/icons?i=git,github,mysql" />
+<a href="https://isocpp.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.oracle.com/java/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://flask.palletsprojects.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://numpy.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://scikit-learn.org/" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://github.com/" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="40" height="40"/>
+</a>
 
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats 
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tusharsehgal584&show_icons=true&locale=en&layout=compact" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tusharsehgal584&show_icons=true&theme=default&cache_seconds=1800" />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharsehgal584&show_icons=true" />
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsehgal584&layout=compact&cache_seconds=1800" />
 </p>
 
 ---
 
 ### ⚡ Reality Check
-> I believe in building real skills, not just collecting certificates.  
-> Currently focused on improving problem-solving and backend development to become industry-ready.
+> I focus on building real-world skills and solving meaningful problems, not just collecting certificates.
 
 ---
