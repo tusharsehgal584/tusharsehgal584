@@ -1,122 +1,104 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
-</div>
 
-<h1 align="center">Hi 👋, I'm Tushar Sehgal</h1>
-<h3 align="center">🚀 Software Engineer in Progress | 🤖 Machine Learning Enthusiast</h3>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" />
 
+# Hi, I'm Tushar Sehgal 👋
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+### AI & Machine Learning | Data Science | Software Engineering
 
-### 👨‍💻 About Me
-- 🎓 Final Year B.Tech CSE (AI Minor)
-- 💡 Strong in **DSA, OOP, Machine Learning**
-- 🧠 Built ML systems for **Disease Prediction & Credit Risk**
-- ⚡ Focused on **getting industry-ready**
-- 📩 Reach me: **tusharsehgal0266@gmail.com**
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tusharsehgal584&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
-</p>
----
-
-### 🔗 Connect With Me
-<p align="left">
 <a href="https://www.linkedin.com/in/tusharsehgal-ai">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <a href="https://github.com/tusharsehgal584">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="https://mera-karmo-ka-sangrah.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-orange?style=for-the-badge&logo=firefox" />
+  <img src="https://img.shields.io/badge/Portfolio-Visit-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
 </a>
-</p>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=tusharsehgal584&label=PROFILE+VIEWS&style=flat-square" />
+
+</div>
 
 ---
 
-### 🚀 Projects
+## 👨‍💻 About Me
 
-🔹 **SwasthyaSights**  
-> ML-powered disease prediction system (~92% accuracy) + hospital recommendation  
+I'm a Computer Science graduate specializing in **Artificial Intelligence**, interested in building intelligent systems that solve real-world problems.
 
-🔹 **NiveshScore**  
-> Credit risk prediction system (~90% accuracy)  
+My experience includes **machine learning, large-scale data analysis, AI-based inference systems, and end-to-end product development**.
 
----
-
-### 🛠️ Tech Stack 
-
-<p align="left">
-
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.oracle.com/java/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://www.python.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://numpy.org/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://scikit-learn.org/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40"/>
-</a>
-
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-</a>
-
-<a href="https://github.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" width="40" height="40"/>
-</a>
-
-</p>
+```text
+Raw Data → Analysis → AI/ML → Real-World Solutions
+```
 
 ---
 
-### 📊 GitHub Stats
+## 🚀 Featured Work
+
+### ⚡ GridSync.AI
+
+AI-powered **Distribution Transformer → Consumer Mapping** system using large-scale smart-meter telemetry data.
+
+* ML inference & data analysis
+* Validation and ground-truth testing
+* Debugging prediction failures
+* Large-scale energy data processing
+
+### 🩺 SwasthyaSights
+
+AI-powered disease prediction and healthcare assistance system.
+
+### 📊 NiveshScore
+
+Machine learning-based credit risk prediction platform.
+
+### 🎬 FilmCraft AI
+
+AI-powered video editing platform.
+
+🏆 **Best Presentation Award — ICEICM 2026**
+
+---
+
+## 🧰 Tech Stack
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-fast.vercel.app/api?username=tusharsehgal584&show_icons=true&theme=default" 
-    alt="GitHub Stats" 
-  />
 
-  <br/><br/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,pytorch,tensorflow,sklearn,flask,nodejs,postgres,docker,git,github,linux,vscode" />
 
-  <img 
-    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tusharsehgal584&layout=compact&theme=default" 
-    alt="Top Languages" 
-  />
 </p>
 
----
-
-### ⚡ Reality Check
-> I focus on building real-world skills and solving meaningful problems, not just collecting certificates.
+**Also working with:** Pandas · NumPy · Machine Learning · Data Analysis · AI Systems
 
 ---
+
+## 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tusharsehgal584&theme=default" width="95%" alt="GitHub Contribution Summary" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tusharsehgal584&theme=default" alt="Top Languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 📫 Let's Connect
+
+**AI • Machine Learning • Data Science • Applied AI**
+
+> *Building systems. Understanding the data behind them. Improving what doesn't work.*
+
+**Thanks for visiting! 👋**
+
+</div>
