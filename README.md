@@ -14,7 +14,9 @@
 - 🧠 Built ML systems for **Disease Prediction & Credit Risk**
 - ⚡ Focused on **getting industry-ready**
 - 📩 Reach me: **tusharsehgal0266@gmail.com**
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=tusharsehgal584&label=Profile%20Views&color=blue&style=for-the-badge" alt="Profile Views" />
+</p>
 ---
 
 ### 🔗 Connect With Me
