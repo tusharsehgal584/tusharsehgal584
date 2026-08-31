@@ -97,14 +97,20 @@
 
 ---
 
-### 📊 GitHub Stats 
+### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=tusharsehgal584&show_icons=true&theme=default&cache_seconds=1800" />
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api?username=tusharsehgal584&show_icons=true&theme=default" 
+    alt="GitHub Stats" 
+  />
 
-<br/>
+  <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharsehgal584&layout=compact&cache_seconds=1800" />
+  <img 
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=tusharsehgal584&layout=compact&theme=default" 
+    alt="Top Languages" 
+  />
 </p>
 
 ---
