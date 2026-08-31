@@ -4,18 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Tushar Sehgal</h1>
 <h3 align="center">🚀 Software Engineer in Progress | 🤖 Machine Learning Enthusiast</h3>
-```html
-### 👀 Profile Views
 
-<p align="center">
-  <img 
-    src="https://komarev.com/ghpvc/?username=tusharsehgal584&label=Profile%20Views&color=0e75b6&style=flat" 
-    alt="tusharsehgal584 Profile Views"
-  />
-</p>
-```
-
----
 
 <img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
